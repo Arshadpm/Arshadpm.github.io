@@ -1,0 +1,23 @@
+.Clock{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: normal;
+    font-weight: 800;
+    color:rgb(116, 106, 207);
+    text-align: center;
+}
+.Clock h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:normal;
+    font-weight: 800;
+    color:rgb(190, 119, 134);
+    text-align: center;
+}
+.Clock h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+   
+    font-style:normal;
+    color:coral;
+    text-align: center;
+
+}

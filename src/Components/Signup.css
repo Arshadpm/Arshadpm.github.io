@@ -1,0 +1,10 @@
+#image3{
+    /* background: url("/src/Components/images/a1.jpg");  */
+     background-size: cover;
+     height: 100%;
+     background-color: #545f6d;
+  }
+
+  .back {
+    background-color: #d3a6c8;
+      }
